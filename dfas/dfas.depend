@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415183073 source:c:\users\tu-8\documents\github\w_5-11-2557\dfas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
